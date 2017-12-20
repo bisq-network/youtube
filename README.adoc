@@ -1,0 +1,3 @@
+= The Bisq YouTube channel
+
+This repository exists to track issues related to Bisq's forthcoming YouTube channel.
