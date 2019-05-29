@@ -1,3 +1,4 @@
 = The Bisq YouTube channel
 
-This repository exists to track issues related to Bisq's forthcoming YouTube channel.
+image::https://yt3.ggpht.com/xCG3SY3_agphKXyQ69T1HrF7GKYm-419hN4PgoXhqLLeNsxBs0dM9UbQA9L1Q_t6HVik_3cDAQ[>1.1ĸ Followers]
+This repository exists to track issues related to Bisq's YouTube https://www.youtube.com/c/bisq-network[channel].
